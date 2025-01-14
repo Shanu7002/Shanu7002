@@ -1,4 +1,4 @@
-- Hi, I’m @Shanu7002
+- Hi, I’m Eduardo
 - I'm nothing yet
 - Just a programmer enthusiast
 
