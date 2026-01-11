@@ -6,13 +6,13 @@
 ---
 
 ### 📈 Current Engineering Focus (2026)
-- 🛠 **System Design:** Studying Distributed Consensus algorithms (Raft/Paxos).
-- 🚀 **Performance:** Benchmarking Node.js vs Go in high-load scenarios.
-- 🧪 **Reliability:** Implementing Chaos Engineering principles in microservices.
+- **System Design:** Studying Distributed Consensus algorithms (Raft/Paxos).
+- **Performance:** Benchmarking Node.js vs Go in high-load scenarios.
+- **Reliability:** Implementing Chaos Engineering principles in microservices.
 
 ---
 
-### 🛠 Technical Proficiency
+### Technical Proficiency
 
 | Layer | Technologies | Engineering Focus |
 | :--- | :--- | :--- |
@@ -22,15 +22,18 @@
 
 ---
 
-### 📊 Engineering Metrics & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanu7002&show_icons=true&theme=tokyonight&count_private=true&exclude_orgs=SwitWorkouts" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu7002&layout=compact&theme=tokyonight&hide_border=true&exclude_orgs=SwitWorkouts" width="42%" />
+### Engineering Metrics & Impact
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Contributions-Verified-blue.svg" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Code-orange.svg" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Focus-High_Performance-red.svg" alt="Focus" />
 </p>
 
 ---
 
-### 🏗 System Design Strategy
+### System Design Strategy
 ```mermaid
 graph TD
     A[Client Request] -->|Load Balancing| B[API Gateway]
@@ -41,7 +44,7 @@ graph TD
 ```
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/eduardo-a-muller" target="_blank">
