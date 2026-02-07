@@ -33,17 +33,6 @@
 
 ---
 
-### System Design Strategy
-```mermaid
-graph TD
-    A[Client Request] -->|Load Balancing| B[API Gateway]
-    B --> C{Go & Node Services}
-    C -->|Async Events| D[RabbitMQ/Kafka]
-    D --> E[(PostgreSQL/MySQL)]
-    C -->|Caching| F[(Redis/In-memory)]
-```
----
-
 ### Connect with me
 
 <p align="left">
