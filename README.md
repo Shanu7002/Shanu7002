@@ -5,31 +5,13 @@
 
 ---
 
-### 📈 Current Engineering Focus (2026)
-- **System Design:** Studying Distributed Consensus algorithms (Raft/Paxos).
-- **Performance:** Benchmarking Node.js vs Go in high-load scenarios.
-- **Reliability:** Implementing Chaos Engineering principles in microservices.
-
----
-
 ### Technical Proficiency
 
 | Layer | Technologies | Engineering Focus |
 | :--- | :--- | :--- |
-| **Languages** | C, Go, Node.js, TS, React | Memory Management, Concurrency, and Resource Optimization |
+| **Languages** | C, Go, Java, Node.js, TS, React | Memory Management, Concurrency, and Resource Optimization |
 | **Backend** | Go (Standard Lib/Echo), Node.js (Express), REST | Scalability, Low-latency, High throughput |
 | **Infrastructure** | Docker, PostgreSQL, MySQL, Prisma ORM | Data Persistence, Containerization, RDBMS |
-
----
-
-### Engineering Metrics & Impact
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Contributions-Verified-blue.svg" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-orange.svg" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Focus-High_Performance-red.svg" alt="Focus" />
-</p>
 
 ---
 
