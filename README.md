@@ -1,32 +1,26 @@
 # Eduardo Müller | Software Engineer
 
-> Focused on high-performance systems, distributed architectures, and algorithmic efficiency. 
-> Committed to Big O optimization, memory safety, and high-quality technical documentation.
+Hey, I know a lot of things, probably more than you expect and less than I want to.
+> Focused on high-performance systems, distributed architectures.
+
+LF > front-end who enjoys building questionable systems for fun.
 
 ---
 
 ### Technical Proficiency
 
-| Layer | Technologies | Engineering Focus |
+| Layer | Technologies | Focus |
 | :--- | :--- | :--- |
-| **Languages** | C, Go, Java, Node.js, TS, React | Memory Management, Concurrency, and Resource Optimization |
-| **Backend** | Go (Standard Lib/Echo), Node.js (Express), REST | Scalability, Low-latency, High throughput |
-| **Infrastructure** | Docker, PostgreSQL, MySQL, Prisma ORM | Data Persistence, Containerization, RDBMS |
+| **Languages** | C, Go, Java, TypeScript | Memory, concurrency, resource efficiency |
+| **Backend** | Spring, Node.js, gRPC, TCP/UDP, REST, GraphQL | Low latency, throughput, distributed systems |
+| **Data** | PostgreSQL, MySQL, RabbitMQ | Persistence, messaging, consistency |
+| **Infrastructure** | Docker, Kubernetes, AWS (ECS, RDS, EKS) | Deployment, scaling, orchestration |
 
 ---
 
-### Connect with me
+Talk is cheap. Show me the code.
+- some important person
 
-<p align="left">
-  <a href="https://linkedin.com/in/eduardo-a-muller" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eduardoaum2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-<p align="center">
-  <sub>Built with precision and high-performance standards. © 2026 Eduardo Müller</sub>
+<p>
+  And some things more, feel free to reach out to me through any contact page and I'll see it.<img src="https://imgs.search.brave.com/YcV5aEOHANxK_Qr_-RRfDxIgdFt9eYJyBkxI6XhDT_k/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9lbW9q/aXMuc2xhY2ttb2pp/cy5jb20vZW1vamlz/L2ltYWdlcy8xNjg3MzgxNDgxLzY2NzQxL2Jsb2JfdGhhbmtzLnBuZz8xNjg3MzgxNDgx">
 </p>
